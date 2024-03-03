@@ -67,5 +67,7 @@ int main()
             cout << endl;
     }
 
+    cout << "Program ini dibuat oleh Farid Noer Hakim" << endl;
+
     return 0;
 }
